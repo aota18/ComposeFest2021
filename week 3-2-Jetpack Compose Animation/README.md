@@ -1,4 +1,4 @@
-# ComposeFest2021
+val offsetX = remember { Animatable(0f) } // Add this line# ComposeFest2021
 Animation 작업물입니다.
 본 폴더를 Android Studio를 이용해서 열어주세요.
 작업을 완료하고, push 해주세요.
